@@ -10,7 +10,7 @@
 <rect width="324" height="20" fill="url(#s)"/>
 </g>
 <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
-<text aria-hidden="true" x="265" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="410">License</text>
-<text x="265" y="140" transform="scale(.1)" fill="#fff" textLength="410">License</text>
-<text aria-hidden="true" x="1000" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="1000">Advanced Silicon</text>
-<text x="1000" y="140" transform="scale(.1)" fill="#fff" textLength="1000">Advanced Silicon</text></g></svg>
+<text aria-hidden="true" x="265" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="420">License</text>
+<text x="265" y="140" transform="scale(.1)" fill="#fff" textLength="420">License</text>
+<text aria-hidden="true" x="1050" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="1000">Advanced Silicon</text>
+<text x="1050" y="140" transform="scale(.1)" fill="#fff" textLength="1000">Advanced Silicon</text></g></svg>
